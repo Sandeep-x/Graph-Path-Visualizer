@@ -34,11 +34,10 @@ This website has been deployed in Github Pages.
 <a>https://sandeep-x.github.io/Graph-Path-Visualizer/</a>  
  
  ## Demo
- This is a simple demo to show you how to use the app.
+ This is a simple demo of the website.
+
+https://user-images.githubusercontent.com/18510244/198369650-b99b6681-ef6c-474f-85bb-41eca0cf8961.mp4
 
 
-https://user-images.githubusercontent.com/18510244/193453589-6b788a63-099c-4d99-9d28-38b7940d62b9.mp4
 
- 
- Choose a object color by double clicking mouse on the color boxes on the right side of screen. Then use a object of the choosen color to draw.
 
