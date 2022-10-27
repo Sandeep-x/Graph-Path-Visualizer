@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Graph-Path-Visualizer/static/css/main.446cfc13.css",
+    "main.js": "/Graph-Path-Visualizer/static/js/main.7a43abc4.js",
+    "index.html": "/Graph-Path-Visualizer/index.html",
+    "main.446cfc13.css.map": "/Graph-Path-Visualizer/static/css/main.446cfc13.css.map",
+    "main.7a43abc4.js.map": "/Graph-Path-Visualizer/static/js/main.7a43abc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446cfc13.css",
+    "static/js/main.7a43abc4.js"
+  ]
+}
