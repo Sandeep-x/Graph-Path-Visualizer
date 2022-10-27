@@ -1,0 +1,50 @@
+.grid-container {
+  margin: 5% auto;
+}
+
+.grid {
+  white-space: pre;
+}
+
+button {
+  margin: 2px;
+}
+
+.buttons {
+	margin: 50px;
+}
+
+.test {
+	margin: auto;
+     width: 20px;
+     height: 20px;
+   }
+   
+ .contain{
+	 width:50%;
+	 margin: auto;
+	display:flex;
+    flex-wrap:wrap;
+ }
+ 
+ .text{
+	 font-family: cursive;
+	 font-weight: bold;
+	 color:	powderblue;
+ }
+ 
+ .red{
+	 background-color:red;
+ }
+ .yellow{
+	 background-color:yellow
+ }
+ .white{
+	 background-color:white;
+ }
+ .blue{
+	 background-color:slateblue;
+ }
+ .green{
+	 background-color:green;
+ }
